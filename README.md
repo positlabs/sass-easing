@@ -20,7 +20,7 @@ $ bower install sass-easing --save
 ## Usage
 
 ```SCSS
-@import "../node_modules/awesome-sass-easing/_easings.scss";
+@import "../node_modules/awesome-sass-easing/_scss-easing.scss";
 
 .element {
   transition(top 500ms $easeInCubic);
